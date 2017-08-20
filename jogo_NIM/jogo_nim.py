@@ -92,7 +92,7 @@ def campeonato():
 
         partida()
 
-        i = i + 1
+        i += 1
 
     print('\n**** Final do campeonato! ****\n')
     print('\nPlacar: Você 0 X 3 Computador\n')
