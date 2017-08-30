@@ -7,11 +7,9 @@ aux = largura
 while altura:
 
     while largura:
-        print('#', end = '')
+        print('#', end='')
         largura -= 1
 
     print('')
     altura -= 1
     largura = aux
-
-
